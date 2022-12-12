@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  URL: 'https://app-node2-ng.herokuapp.com/API/'
 };
